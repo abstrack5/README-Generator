@@ -4,8 +4,6 @@
 A professional README Generator depending on a series of questions a user must answer in their command line using Node.
 
 # Technologies
-* HTML
-* CSS
 * JS
 * NPM
 
