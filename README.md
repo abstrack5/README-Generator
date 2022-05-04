@@ -1,5 +1,16 @@
 # README-Generator
 
+# Description
+A profession README Generator
+
+# Technologies
+* HTML
+* CSS
+* JS
+* NPM
+
+
+
 ## License
 Copyright (c) 2022 AAhmadi
 
