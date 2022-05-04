@@ -1,7 +1,7 @@
 # README-Generator
 
 # Description
-A profession README Generator
+A professional README Generator
 
 # Technologies
 * HTML
