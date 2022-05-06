@@ -1,22 +1,14 @@
 {
-  "name": "readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "A professional README Generator",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Abstrack5/README-Generator.git"
-  },
-  "author": "AAhmadi",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Abstrack5/README-Generator/issues"
-  },
-  "homepage": "https://github.com/Abstrack5/README-Generator#readme",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^6.3.1"
   }
 }
