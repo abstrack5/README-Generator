@@ -4,12 +4,21 @@
 A professional README Generator depending on a series of questions a user must answer in their command line using Node.
 
 # Technologies
-* JS
-* NPM
+* js
+* node
+* npm
 
+## Demo
 
+## Installation
+- Download Node.js
+- To generate a README, git clone the repository
+- Run npm install inquirer
+- To start application, open terminal and run command node index.js
+- Answer the questions prompted
+- Now check the GeneratedREADME file, and VOLA you have a self generated README file
 
-## License
+## MIT License
 Copyright (c) 2022 AAhmadi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
