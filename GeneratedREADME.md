@@ -1,11 +1,11 @@
 
   
-  # as
-  * GitHub: [da](https://github.com/da)
-  * Email: [d]
+  # README Gen
+  * GitHub: [TestMe](https://github.com/TestMe)
+  * Email: [n]
 
   ## License
-  [![license](https://img.shields.io/badge/license-Apache 2.0,MIT,Mozilla-Public 2.0,GNU-General-Public,Common-Development-and Distribution,None-green)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT-green)](https://shields.io)
 
   ## Table of Contents
   * [Description] (#description)
@@ -15,20 +15,20 @@
   * [Testing](#testing)
   
   ## Description
-  d
+  A README Gen that will help you make a professional README
   
   ## Installation
-  as
+  use npm to insstall inquirer
   
   ## Usage
-  d
+  opening terminal and typing node index and answering the questions
   
   ## License
-  Apache 2.0,MIT,Mozilla-Public 2.0,GNU-General-Public,Common-Development-and Distribution,None
+  MIT
   
   ## Contribution
-  ad
+   
   
   ## Testing
-  a
+   
   
