@@ -1,5 +1,3 @@
-# README-Generator
-
 # Description
 A professional README Generator depending on a series of questions a user must answer in their command line using Node.
 
@@ -9,6 +7,8 @@ A professional README Generator depending on a series of questions a user must a
 * npm
 
 ## Demo
+Sample of generated readme [ here ](https://github.com/Abstrack5/README-Generator/blob/beaca383046b2112ed03b12e09d350d151e4fc80/GeneratedREADME.md)
+
 https://user-images.githubusercontent.com/100798134/167320491-ca3b4564-ff5f-40ad-a9ba-8bdb64a40f4d.mp4
 
 
