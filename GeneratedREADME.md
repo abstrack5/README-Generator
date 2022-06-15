@@ -1,11 +1,11 @@
 
   
-  # README Gen
-  * GitHub: [TestMe](https://github.com/TestMe)
+  # README Generator
+  * GitHub: [abstrack5](https://github.com/abstrack5)
   * Email: [n]
 
   ## License
-  [![license](https://img.shields.io/badge/license-MIT-green)](https://shields.io)
+  [![license](https://img.shields.io/badge/license--green)](https://shields.io)
 
   ## Table of Contents
   * [Description] (#description)
@@ -15,19 +15,19 @@
   * [Testing](#testing)
   
   ## Description
-  A README Gen that will help you make a professional README
+  An command line app that helps produce a proffesional readme for my future projects/apps.
   
   ## Installation
-  use npm to insstall inquirer
+  in terminal type 'npm install' to install needed packagess
   
   ## Usage
-  opening terminal and typing node index and answering the questions
+  start app by using node index and answer questions as prompted
   
   ## License
-  MIT
+  
   
   ## Contribution
-   
+  add or revamp questions to enhance professionalism, add some functions to enhance looks
   
   ## Testing
    
